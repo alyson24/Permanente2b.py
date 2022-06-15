@@ -3,7 +3,9 @@
 Algoritmos de ordenación
 
 Lo primero que se realizo fue elegir números para medir el tiempo de ejecucion que son los siguiente:
+
         números = {10000, 20000, 50000, 70000, 100000, 150000}
+        
 Despues se implemento en Python dos algoritmos de ordenación que son Insertion Sort y Bubble Sort 
 al momento de ejecutar da como resultado el tiempo de medición de un número y por último 
 se realizo un grafico en donde muestra los resultados.
